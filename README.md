@@ -1,0 +1,1 @@
+This exercise focuses on creating a multi-modal semantic search engine. We employ the same model, clip-ViT-B-32, for both text and image embeddings. Users input queries into the notebook interface to retrieve relevant artifacts from a given PDF file.
