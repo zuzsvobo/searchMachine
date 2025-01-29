@@ -1,1 +1,1 @@
-This exercise focuses on creating a multi-modal semantic search engine. We employ the same model, clip-ViT-B-32, for both text and image embeddings stored in the Chroma collection. Users input queries into this collection to retrieve relevant artifacts from a given PDF file.
+This exercise focuses on building a multi-modal semantic search engine using the CLIP ViT-B/32 model for both text and image embeddings, which are stored in a Chroma collection. Users can input queries to retrieve relevant artifacts from a given PDF file.
